@@ -1,4 +1,4 @@
-# Stable_Diffusion_FastAPI_Flutter
+# Stable Diffusion Demo - FastAPI/Flutter
 
 Stable Diffusion is a deep learning, text-to-image, model which generates images based on some given description.
 
